@@ -36,7 +36,7 @@ This Python script automates the creation of Google Cloud Projects. It utilizes 
 
 1. **Run the script:**
    ```bash
-   python main.py  # Replace your_script_name.py with the actual script file name.
+   python main.py
    ```
 
 2. **Follow the prompts:**
